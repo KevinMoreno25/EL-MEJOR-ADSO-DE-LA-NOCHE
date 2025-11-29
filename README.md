@@ -2,9 +2,9 @@
 Archivo para prácticar la creación de ramas y pull request con el mejor ADSO de la noche.
 
 
-# 📘 Bitácora de Estudiantes BASES DE DATOS FICHA 3065370 ADSO
+# 📘 Bitácora de Estudiantes BASES DE DATOS FICHA 3275760 ADSO
 
-Plantilla para trabajar sobre los conceptos fundamentales en Bases de Datos con la Ficha 3065370 de ADSO.
+Plantilla para trabajar sobre los conceptos fundamentales en HTML con la Ficha 3275760 de ADSO.
 Cada estudiante deberá modificar este archivo **README.md**, colocando un emoji representativo y su nombre completo en la lista de participantes.
 
 ## 📌 Participantes
