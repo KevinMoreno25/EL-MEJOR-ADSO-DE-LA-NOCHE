@@ -18,6 +18,8 @@ Cada estudiante deberá modificar este archivo **README.md**, colocando un emoji
 11. 👺 **Juan Sebastian Diaz** 
 
 
+12. 🦁 **Josue Esteban Castañeda Palomo**
+
 
 
 
