@@ -14,7 +14,7 @@ Cada estudiante deberá modificar este archivo **README.md**, colocando un emoji
 2. 🐨**Nikol Vannesa Castañeda Carrillo**
 3. ✌️**Johan Gonzalo Garcia Walteros**
 4. 😶‍🌫️**Roxana Ruiz Riocampo**
-5. 🎶 ** maria camila ortiz gaitan **
+5. 🎶 **maria camila ortiz gaitan**
 6.😂 **YIra Dirley Gomez Hurtado**
 7.❤️**Leydi Carolina Ramírez Rodríguez**
 8. 🤣 **Juan Cuervo**
